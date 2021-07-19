@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721145361265",
+    "project_id": "tictaktoyonline-63737",
+    "storage_bucket": "tictaktoyonline-63737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721145361265:android:b4bba4bb7b59d8761bbcd0",
+        "android_client_info": {
+          "package_name": "com.example.tictaktoyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721145361265-c73rkvd46jqhltg1tk9vbolul5k880ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWci1BRZxor6ryUGbN5JzMJSBnW3tU2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721145361265-c73rkvd46jqhltg1tk9vbolul5k880ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
